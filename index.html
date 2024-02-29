@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/4392b60e4c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>AudioBook</title>
+
+  </head>
+  <body>
+    <div id="audio-container">
+        <img id="cover" alt="Capa do livro Dom Carmurro" src="./images/dom-casmurro.jpeg">
+        <audio id="audio-chapter" src="./books/dom-casmurro/1.mp3"></audio>
+
+        <div id="track-info">
+            <div id="chapter">Capítulo 1</div>
+            <div id="author-name">Machado de Assis</div>
+        </div>
+
+        <div id="btn-container" class="full-width">
+            <button id="previous" class="fa-solid fa-backward-step"></button>
+            <button id="play-pause" class="fa-solid fa-circle-play"></button>
+            <button id="next" class="fa-solid fa-forward-step"></button>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
