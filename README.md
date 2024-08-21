@@ -4,19 +4,18 @@
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
 </p>
 
-## 📚 Descrição
+### 📚 Descrição
 Projeto desenvolvido durante o Intensivão JavaScript da Hashtag Treinamentos, que simula um AudioBook do livro Dom Casmurro, contendo 10 capítulos.
 
-## 🎨 Layout
+### 🎨 Layout
 <img src="https://github.com/deboradrf/audiobook/assets/130398684/6b316dae-7359-4bf1-b838-20653a41c46c">
 
-## ✔️ Tecnologias utilizadas
+### ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
 - ``HTML``
 - ``CSS``
 - ``Bootstrap``
 - ``JavaScript``
 
-## 📁 Acesso ao projeto
-Hospedado no Netlify <br>
-Link: https://audiobook-deboradrf.netlify.app
+### 📁 Acesso ao projeto
+Hospedado no Netlify `https://audiobook-deboradrf.netlify.app`
